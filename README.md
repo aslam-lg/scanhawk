@@ -31,8 +31,8 @@ python3 --version
 
 ### 2. Clone or download the project
 ```bash
-git clone https://github.com/yourusername/scanhawk.git
-cd scanhawk
+git clone https://github.com/aslam-lg/scanhawk.git
+cd ScanHawk
 ```
 (Or simply download `scanhawk.py`, `requirements.txt`, `README.md`, and `LICENSE` into a folder.)
 
