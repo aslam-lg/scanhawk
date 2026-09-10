@@ -22,7 +22,7 @@ A fast, multi-threaded TCP port scanner for authorized network reconnaissance an
 
 ### 1. Prerequisites
 - Python **3.7 or higher**
-- pip (usually bundled with Python)
+- No third-party packages required(see requirements)
 
 Check your Python version:
 ```bash
@@ -34,7 +34,7 @@ python3 --version
 git clone https://github.com/aslam-lg/scanhawk.git
 cd ScanHawk
 ```
-(Or simply download `scanhawk.py`, `requirements.txt`, `README.md`, and `LICENSE` into a folder.)
+(Or simply download port_scanner.py directly if you don't need the full repo.
 
 ### 3. (Recommended) Create a virtual environment
 ```bash
