@@ -1,0 +1,8 @@
+# ScanHawk has no third-party dependencies — it only uses the Python
+# standard library (argparse, socket, concurrent.futures, csv, json, etc.)
+#
+# Minimum Python version required: 3.7+
+#
+# This file is included for convention/CI purposes. If you add features
+# later (e.g. colored output, UDP scanning libs), list them below, e.g.:
+# colorama>=0.4.6
